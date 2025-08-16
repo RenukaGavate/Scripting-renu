@@ -10,3 +10,4 @@ echo "a is smaller than b"
 fi
 echo i am commiting
 echo "hi i an renu"
+echo "git done all"
